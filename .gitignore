@@ -1,0 +1,8 @@
+*.csv
+*.pdf
+*.html
+*.png
+*.ipynb_checkpoints
+__pycache__/
+ex00/
+*.log
