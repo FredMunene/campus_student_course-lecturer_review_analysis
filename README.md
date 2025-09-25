@@ -84,6 +84,7 @@ jupyter lab --port=8891 --no-browser
 
 - Open http://localhost:8891 in your browser
 - Open the existing `Notebook.ipynb` file to run the analysis
+- View the pre-generated analysis: [Notebook.html](Notebook.html)
 
 ## Usage
 
